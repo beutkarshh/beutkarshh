@@ -2,7 +2,7 @@
 
 **AI engineer building agentic and RAG systems — and the full-stack apps around them.**
 
-🎓 Final-year Computer Engineering @ **Pune Institute of Computer Technology (PICT)** · Graduating 2027
+🎓 Final-year Electronics & Telecommunication Engineering @ **Pune Institute of Computer Technology (PICT)** · Graduating 2027
 🎯 Open to **AI/ML, Backend and Full-Stack** roles
 
 I like taking an LLM idea from a whiteboard to something that actually runs: retrieval pipelines, multi-agent orchestration, browser automation, and the backend + UI that make them usable. Most of my work has been built and shipped under hackathon pressure — **8 hackathon finals, 2 podium finishes.**
